@@ -1,1 +1,1 @@
- Dear TA, the GitHub web interface has a file size limitation, so I am only able to upload smaller files individually.
+The primary objective of this project is to classify images into indoor and outdoor scenes, and to further determine the presence or absence of humans in each image.
